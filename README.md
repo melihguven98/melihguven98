@@ -15,7 +15,7 @@ I take LLM features from a customer's problem to production: the pipeline, the i
 | Project | What it is |
 | --- | --- |
 | 📥 **briefcatch** | Catches customer requests in everyday conversations and turns them into a categorized to-do list, with human approval on every item. Multi-tenant, eval-driven, MCP 2.0 server. *Private for now.* |
-| 🌦️ **Tulpar Go** | Hour-by-hour weather along your route, with risk thresholds per driver type. Expo + React Native, self-hosted Valhalla routing, MCP server. *Private for now.* |
+| 🌦️ [**Tulpar Go**](https://github.com/melihguven98/tulpar-go) | Hour-by-hour weather along your route, with risk thresholds per driver type. Expo + React Native, self-hosted Valhalla routing, MCP server. |
 
 ### 🧰 Tech
 
